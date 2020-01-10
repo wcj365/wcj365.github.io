@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Whoami
 
-You can use the [editor on GitHub](https://github.com/wcj365/wcj365.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome. I am a seasoned software engineer, data scientist, project manager, and researcher with experience in System Design, Data Analytics, Health IT, and IT Modernization; I have strong people and communication skills and strong commitment to individual excellence and team success. I am always curious and am a lifetime learner.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Current Interest
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Cloud Computing**
+- **Data Visualization**
+- **Agile and DevOps**
 
 ```markdown
 Syntax highlighted code block

@@ -1,9 +1,6 @@
 ## whoami?
-
 I am a seasoned software engineer, data scientist, project manager, and researcher with experience in System Design, Data Analytics, Health IT, and IT Modernization; I have strong people and communication skills and strong commitment to individual excellence and team success. I am always curious and am a lifetime learner.
-
-## Current Interest
-
+## current interests
 - Cloud Computing
 - Data Visualization
 - Agile and DevOps

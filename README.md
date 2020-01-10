@@ -4,7 +4,7 @@ I am a seasoned software engineer, data scientist, project manager, and research
 - Cloud Computing
 - Data Visualization
 - Agile and DevOps
-## why wcj365?
+## wcj365?
 - **wcj** = initials of  Wang Chaojie; 
 - **365** = 360 + 5; 
 - **360** = a circle; 

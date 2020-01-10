@@ -4,9 +4,9 @@ I am a seasoned software engineer, data scientist, project manager, and research
 
 ### Current Interest
 
-- **Cloud Computing**
-- **Data Visualization**
-- **Agile and DevOps**
+- Cloud Computing
+- Data Visualization
+- Agile and DevOps
 
 ```markdown
 Syntax highlighted code block

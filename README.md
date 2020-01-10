@@ -4,21 +4,10 @@ I am a seasoned software engineer, data scientist, project manager, and research
 - Cloud Computing
 - Data Visualization
 - Agile and DevOps
-
+## Why wcj365?
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+wcj are the initials of my legal name - Wang Chaojie. \
+365 = 360 + 5. I look at things from 360 degrees. I live and learn every day, 365 days per year. Simplicity is my philosophy. You must be able to count it using one hand, otherwise it is too complicated.
 
 [Link](url) and ![Image](src)
 ```

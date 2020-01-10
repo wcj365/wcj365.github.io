@@ -5,15 +5,8 @@ I am a seasoned software engineer, data scientist, project manager, and research
 - Data Visualization
 - Agile and DevOps
 ## why wcj365?
-wcj = initials of  Wang Chaojie. \
-365 = 360 + 5. 
-I attempt to see things from 360 degrees. \
-There are 365 days per year. \
-5 represents five forces or elements.  \
-### LinkedIn 
-
-https://www.linkedin.com/in/jaywangusa/
-
-### Contact 
-
-Email: wcj365@gmail.com
+**wcj** = initials of  Wang Chaojie. \
+**365** = 360 + 5. 
+I attempt to see things from **360** degrees. \
+There are **365** days per year. \
+**5** represents five elements (五行）.  \

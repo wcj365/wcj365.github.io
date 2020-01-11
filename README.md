@@ -6,11 +6,11 @@
 * **A Lifelong Learner** - Then I know something, now I know nothing;
 
 ## wcj365?
-* **wcj** = initials of my name; 
+* **wcj** = my initials; 
 * **365** = 360 + 5; 
-* **360** = degrees a circle; 
-* **365** = days a year; 
-* **5** = fingers a hand; 
+* **360** = degrees (circle); 
+* **365** = days (year); 
+* **5** = fingers (hand); 
 
 ## My Peer-reviewed Journal Articles
 1. [From Artificial to Emotional Intelligence: Integrating Five Typesof Intelligence to AchieveOrganizational Excellence (2019)](http://www.issbs.si/press/ISSN/2232-5697/8_125-144.pdf)

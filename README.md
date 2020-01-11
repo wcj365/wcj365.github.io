@@ -1,5 +1,8 @@
 ## whoami?
-I am a seasoned software engineer, data scientist, project manager, and researcher with experience in System Design, Data Analytics, Health IT, and IT Modernization; I have strong people and communication skills and strong commitment to individual excellence and team success. I am always curious and am a lifetime learner.
+- I am a programmer. Then Java, now Python;
+- I am a software engineer. Then Waterfall, now Agile;
+- I am a data scientist.Then Statistics, Now Machine Learning;
+- I am a propject manager. Then plan and control, now lean and agile.
 ## current interests
 - Cloud Computing
 - Data Visualization

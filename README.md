@@ -12,6 +12,13 @@
 * **360** = degrees (circle); 
 * **5** = fingers (hand); 
 
+## my work
+I am a principle systems engineering at The MITRE Corporation.
+
+## my teaching
+I am an adjunct instructor at University of Maryland Baltimore County. \
+I teach DATA 690 - Statistical Analysis and Data Visualization with Python. \
+The course materials are in [this reposiroty](https://github.com/wcj365/python-stats-dataviz)
 ## my publications
 These are peer-reviewed journal articles:
 1. [Explore Health Information Exchanges using Systems of Systems Framework (2020), *International Journal of Applied Research on Public Health Management (IJARPHM)*, Volume 5, Issue 2](https://www.igi-global.com/journal/international-journal-applied-research-public/214902)

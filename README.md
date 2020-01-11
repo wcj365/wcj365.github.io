@@ -3,10 +3,6 @@
 - I am a software engineer. Then Waterfall, now Agile;
 - I am a data scientist. Then Statistical Inference, Now Machine Learning;
 - I am a propject manager. Then Plan and Control, now Lean and Learn.
-## current interests
-- Cloud Computing
-- Data Visualization
-- Agile and DevOps
 ## wcj365?
 - **wcj** = initials of my name; 
 - **365** = 360 + 5; 

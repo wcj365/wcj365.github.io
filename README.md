@@ -7,6 +7,6 @@
 ## wcj365?
 * **wcj** = initials of my name; 
 * **365** = 360 + 5; 
-* **360** = a circle; 
-* **365** = days per year; 
-* **5** = five elements; 
+* **360** = degrees a circle; 
+* **365** = days a year; 
+* **5** = fingers a hand; 

@@ -3,7 +3,7 @@
 * **A Software Engineer** - from Waterfall to Agile
 * **A Systems Engineer** - from Thinking in Systems to Thinking in Systems of Systems (SoS)
 * **A Data Scientist** - from Statistics to Machine Learning
-* **A Project Manager** - from Manage to Lead, from Plan & Control to Learn and Innovate
+* **A Lifelong Learner** - from I Know Something to I Know Nothing
 
 ## wcj365?
 * **wcj** = my initials

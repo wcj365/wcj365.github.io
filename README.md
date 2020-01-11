@@ -25,9 +25,9 @@
 * I was the **Vice President** of Product Development at Regent Education, Inc. from 2013 to 2016
 
 ## my teaching
-* I am an **adjunct instructor** at University of Maryland Baltimore County (UMBC) since 2019 
-* I teach *DATA 690 - Statistical Analysis and Data Visualization with Python*
-* The course materials are in [this Github reposiroty](https://github.com/wcj365/python-stats-dataviz)
+* I am an **Adjunct Instructor** at University of Maryland Baltimore County (UMBC) since 2019 
+* I teach **DATA 690** - *Statistical Analysis and Data Visualization with Python*
+* The course materials are in [this Github repository](https://github.com/wcj365/python-stats-dataviz)
 
 ## my publications
 These are peer-reviewed journal articles:

@@ -9,4 +9,4 @@ I am a seasoned software engineer, data scientist, project manager, and research
 - **365** = 360 + 5; 
 - **360** = a circle; 
 - **365** = days per year; 
-- **5** = five elements (五行); 
+- **5** = five elements; 

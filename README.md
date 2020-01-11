@@ -12,6 +12,7 @@
 * **5** = fingers a hand; 
 
 ## journal articles
-* [From Artificial to Emotional Intelligence: Integrating Five Typesof Intelligence to AchieveOrganizational Excellence](www.issbs.si/press/ISSN/2232-5697/8_125-144.pd)
+* [From Artificial to Emotional Intelligence: Integrating Five Typesof Intelligence to AchieveOrganizational Excellence](www.issbs.si/press/ISSN/2232-5697/8_125-144.pdf)
 * [The Yin and Yang of a Doctor of Science in Information Systems and Communications Program](http://www.iacis.org/iis/2019/2_iis_2019_128-139.pdf)
-
+* [The Strengths, Weaknesses, Opportunities, and Threats Analysis of Big Data Analytics in Healthcare]()
+* [Integrating Data Analytics and Knowledge Management: A Conceptual Model](http://www.iacis.org/iis/2018/2_iis_2018_208-216.pdf)

@@ -13,12 +13,15 @@
 * **5** = fingers (hand); 
 
 ## my work
-I am a principle systems engineering at The MITRE Corporation.
+I am a principle systems engineer at The MITRE Corporation since 2016;
+I was a program chief engineer at Lockheed Martin Corporation from 2006 to 2016;
+I was the Vice President of Product Development at Regent Education, Inc. from 2013 to 2016;
 
 ## my teaching
-I am an adjunct instructor at University of Maryland Baltimore County. \
-I teach DATA 690 - Statistical Analysis and Data Visualization with Python. \
-The course materials are in [this reposiroty](https://github.com/wcj365/python-stats-dataviz)
+I am an adjunct instructor at University of Maryland Baltimore County since 2019. \
+I teach **DATA 690** - Statistical Analysis and Data Visualization with Python. \
+The course materials are in [this Github reposiroty](https://github.com/wcj365/python-stats-dataviz)
+
 ## my publications
 These are peer-reviewed journal articles:
 1. [Explore Health Information Exchanges using Systems of Systems Framework (2020), *International Journal of Applied Research on Public Health Management (IJARPHM)*, Volume 5, Issue 2](https://www.igi-global.com/journal/international-journal-applied-research-public/214902)

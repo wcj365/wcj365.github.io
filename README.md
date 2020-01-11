@@ -4,6 +4,8 @@ I am a seasoned software engineer, data scientist, project manager, and research
 - Cloud Computing
 - Data Visualization
 - Agile and DevOps
+
+
 ## wcj365?
 - **wcj** = initials of my name; 
 - **365** = 360 + 5; 

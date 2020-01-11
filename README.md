@@ -20,13 +20,13 @@
 * **Bachelor of Engineering (BE)** in *Management Information Systems (MIS)*, Tsinghua University, Beijing, China
 
 ## work
-* I am a **Principle Systems Engineer** at The MITRE Corporation since 2016
-* I was a **Chief Engineer** at Lockheed Martin Corporation from 2006 to 2016
-* I was the **Vice President** of Product Development at Regent Education, Inc. from 2013 to 2016
+* **Principle Systems Engineer** at The MITRE Corporation since 2016
+* **Chief Engineer** at Lockheed Martin Corporation from 2006 to 2016
+* **Vice President** of Product Development at Regent Education, Inc. from 2013 to 2016
 
 ## teaching
-* I am an **Adjunct Instructor** at University of Maryland Baltimore County (UMBC) since 2019 
-* I teach **DATA 690** - *Statistical Analysis and Data Visualization with Python*
+* **Adjunct Instructor** at University of Maryland Baltimore County (UMBC) since Fall 2019 
+* Data Science Graduate Course: **DATA 690** - *Statistical Analysis and Data Visualization with Python*
 * The course materials are in [this Github repository](https://github.com/wcj365/python-stats-dataviz)
 
 ## journal articles

@@ -1,16 +1,16 @@
 ## whoami?
-* **A Programmer** - Then Java, now Python;
-* **A Software Engineer** - Then Waterfall, now Agile;
-* **A Data Scientist** - Then Statistics, now Machine Learning;
-* **A Propject manager** - Then Plan and Control, now Lean and Learn;
-* **A Lifelong Learner** - Then I know something, now I know nothing;
+* **A Programmer** - Then Java, now Python
+* **A Software Engineer** - Then Waterfall, now Agile
+* **A Data Scientist** - Then Statistics, now Machine Learning
+* **A Propject manager** - Then Plan and Control, now Lean and Learn
+* **A Lifelong Learner** - Then I know something, now I know nothing
 
 ## wcj365?
-* **wcj** = my initials; 
-* **365** = days (year); 
-* **365** = 360 + 5; 
-* **360** = degrees (circle); 
-* **5** = fingers (hand); 
+* **wcj** = my initials
+* **365** = days (year) 
+* **365** = 360 + 5
+* **360** = degrees (circle)
+* **5** = fingers (hand)
 
 ## my education
 * **Doctor of Science (D.Sc.)** in *Information Systems and Communications*, Robert Morris University
@@ -19,15 +19,15 @@
 * **Master of Art** in *Economics*, The University of Toledo
 * **Bachelor of Engineering** in *Management Information Systems (MIS)*, Tsinghua University, Beijing, China
 
-## my industry employment
+## my work
 * I am a **Principle Systems Engineer** at The MITRE Corporation since 2016
 * I was a **Chief Engineer** at Lockheed Martin Corporation from 2006 to 2016
 * I was the **Vice President** of Product Development at Regent Education, Inc. from 2013 to 2016
 
-## my academic teaching
-I am an **adjunct instructor** at University of Maryland Baltimore County since 2019. \
-I teach *DATA 690 - Statistical Analysis and Data Visualization with Python*. \
-The course materials are in [this Github reposiroty](https://github.com/wcj365/python-stats-dataviz)
+## my teaching
+* I am an **adjunct instructor** at University of Maryland Baltimore County (UMBC) since 2019 
+* I teach *DATA 690 - Statistical Analysis and Data Visualization with Python*
+* The course materials are in [this Github reposiroty](https://github.com/wcj365/python-stats-dataviz)
 
 ## my publications
 These are peer-reviewed journal articles:

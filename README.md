@@ -12,6 +12,6 @@
 * **5** = fingers a hand; 
 
 ## journal articles
-* [From Artificial to EmotionalIntelligence: Integrating Five Typesof Intelligence to AchieveOrganizational Excellence](www.issbs.si/press/ISSN/2232-5697/8_125-144.pd)
-* [THE YIN AND YANG OF A DOCTOR OF SCIENCE IN INFORMATION SYSTEMS AND COMMUNICATIONS PROGRAM: PERSONAL REFLECTIONS AND REVERSE ENGINEERING](http://www.iacis.org/iis/2019/2_iis_2019_128-139.pdf)
+* [From Artificial to Emotional Intelligence: Integrating Five Typesof Intelligence to AchieveOrganizational Excellence](www.issbs.si/press/ISSN/2232-5697/8_125-144.pd)
+* [The Yin and Yang of a Doctor of Science in Information Systems and Communications Program](http://www.iacis.org/iis/2019/2_iis_2019_128-139.pdf)
 

@@ -1,9 +1,9 @@
-title: # Dr. Chaojie (Jay) Wang
+title: > # Dr. Chaojie (Jay) Wang
 logo: "./images/logo.png?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  #First description 
-  #<br><br>
-  #Second description 
-  #<br><br>
+  > # First description 
+  > # <br><br>
+  > # Second description 
+  > # <br><br>
   <a href="https://www.linkedin.com/in/jaywangusa/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal

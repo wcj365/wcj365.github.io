@@ -1,5 +1,5 @@
 title: Dr. Chaojie (Jay) Wang
-logo: "/images/logo.png?raw=true" 
+logo: "./images/logo.png?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>

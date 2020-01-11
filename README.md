@@ -12,19 +12,19 @@
 * **360** = degrees (circle); 
 * **5** = fingers (hand); 
 
-## my educations
+## my education
 * **Doctor of Science (D.Sc.)** in *Information Systems and Communications*, Robert Morris University
 * **Master of Business Administration (MBA)** in *Finance*, Loyola University Maryland
 * **Master of Science** in *Statistics*, The University of Toledo
 * **Master of Art** in *Economics*, The University of Toledo
 * **Bachelor of Engineering** in *Management Information Systems (MIS)*, Tsinghua University, Beijing, China
 
-## my work
+## my industry employment
 * I am a **Principle Systems Engineer** at The MITRE Corporation since 2016
 * I was a **Chief Engineer** at Lockheed Martin Corporation from 2006 to 2016
 * I was the **Vice President** of Product Development at Regent Education, Inc. from 2013 to 2016
 
-## my teaching
+## my academic teaching
 I am an **adjunct instructor** at University of Maryland Baltimore County since 2019. \
 I teach *DATA 690 - Statistical Analysis and Data Visualization with Python*. \
 The course materials are in [this Github reposiroty](https://github.com/wcj365/python-stats-dataviz)

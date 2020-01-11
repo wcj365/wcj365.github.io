@@ -1,9 +1,9 @@
 ## whoami?
-* **A Programmer** - Then Java, now Python
-* **A Software Engineer** - Then Waterfall, now Agile
-* **A Data Scientist** - Then Statistics, now Machine Learning
-* **A Project Manager** - Then Plan and Control, now Lean and Learn
-* **A Lifelong Learner** - Then I know something, now I know nothing
+* **A Programmer** - from Java to Python
+* **A Software Engineer** - from Waterfall to Agile
+* **A Systems Engineer** - from Thinking in Systems to Thinking in Systems of Systems (SoS)
+* **A Data Scientist** - from Statistics to Machine Learning
+* **A Project Manager** - from Manage to Lead, from Plan & Control to Learn and Innovate
 
 ## wcj365?
 * **wcj** = my initials

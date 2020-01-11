@@ -11,8 +11,9 @@
 * **365** = days a year; 
 * **5** = fingers a hand; 
 
-## My Publications
-* [From Artificial to Emotional Intelligence: Integrating Five Typesof Intelligence to AchieveOrganizational Excellence (2019)](http://www.issbs.si/press/ISSN/2232-5697/8_125-144.pdf)
-* [The Yin and Yang of a Doctor of Science in Information Systems and Communications Program (2019)](http://www.iacis.org/iis/2019/2_iis_2019_128-139.pdf)
-* [The Strengths, Weaknesses, Opportunities, and Threats Analysis of Big Data Analytics in Healthcare (2019)](https://github.com/wcj365/wcj365.github.io/blob/master/docs/The-Strengths-Weaknesses-Opportunities-and-Threats-Analysis-of-Big-Data-Analytics-in-Healthcare.pdf)
-* [Integrating Data Analytics and Knowledge Management: A Conceptual Model (2018)](http://www.iacis.org/iis/2018/2_iis_2018_208-216.pdf)
+## My Refereed Journal Articles
+1. [From Artificial to Emotional Intelligence: Integrating Five Typesof Intelligence to AchieveOrganizational Excellence (2019)](http://www.issbs.si/press/ISSN/2232-5697/8_125-144.pdf)
+2. [The Yin and Yang of a Doctor of Science in Information Systems and Communications Program (2019)](http://www.iacis.org/iis/2019/2_iis_2019_128-139.pdf)
+3. [The Strengths, Weaknesses, Opportunities, and Threats Analysis of Big Data Analytics in Healthcare (2019)](https://github.com/wcj365/wcj365.github.io/blob/master/docs/The-Strengths-Weaknesses-Opportunities-and-Threats-Analysis-of-Big-Data-Analytics-in-Healthcare.pdf)
+4. [Integrating Data Analytics and Knowledge Management: A Conceptual Model (2018)](http://www.iacis.org/iis/2018/2_iis_2018_208-216.pdf)
+## My Conference Presentations

@@ -15,9 +15,9 @@
 ## my education
 * **Doctor of Science (D.Sc.)** in *Information Systems and Communications*, Robert Morris University
 * **Master of Business Administration (MBA)** in *Finance*, Loyola University Maryland
-* **Master of Science** in *Statistics*, The University of Toledo
-* **Master of Art** in *Economics*, The University of Toledo
-* **Bachelor of Engineering** in *Management Information Systems (MIS)*, Tsinghua University, Beijing, China
+* **Master of Science (MS)** in *Statistics*, The University of Toledo
+* **Master of Art (MA)** in *Economics*, The University of Toledo
+* **Bachelor of Engineering (BE)** in *Management Information Systems (MIS)*, Tsinghua University, Beijing, China
 
 ## my work
 * I am a **Principle Systems Engineer** at The MITRE Corporation since 2016

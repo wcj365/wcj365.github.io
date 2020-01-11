@@ -3,6 +3,7 @@
 * **A Software Engineer** - Then Waterfall, now Agile;
 * **A Data Scientist** - Then Statistics, now Machine Learning;
 * **A Propject manager** - Then Plan and Control, now Lean and Learn;
+* **A Lifelong Learner** - Then I know something, now I know nothing;
 
 ## wcj365?
 * **wcj** = initials of my name; 

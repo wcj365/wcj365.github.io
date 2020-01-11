@@ -38,7 +38,6 @@ These are peer-reviewed journal articles:
 5. Integrating Data Analytics and Knowledge Management: A Conceptual Model (2018), *Issues in Information Systems*, Volume 19, Issue 2. [(download)](http://www.iacis.org/iis/2018/2_iis_2018_208-216.pdf)
 
 ## conference presentations
-1. The Yin and Yang of A Doctoral Program – Personal Reflections & Reverse Engineering (October 2019), *59th IACIS Annual Conference*, Clearwater Beach, FL, USA. [(downlload)](https://github.com/wcj365/wcj365.github.io/blob/master/docs/Yin%20Yang%20Research%20Model%202019%20IACIS.pptx)
+1. The Yin and Yang of A Doctoral Program – Personal Reflections & Reverse Engineering (October 2019), *59th IACIS Annual Conference*, Clearwater Beach, FL, USA. [(download)](https://github.com/wcj365/wcj365.github.io/blob/master/docs/Yin%20Yang%20Research%20Model%202019%20IACIS.pptx)
 2. From AI to EI - Integrating Five Types of Intelligence to Achieve Organizational Excellence (May 2019), *MakeLearn & TIIM International Conference*, Piran, Slovenia. [(download)](https://github.com/wcj365/wcj365.github.io/blob/master/docs/From%20AI%20to%20EI%20Final.pptx)
-3. Integrating Data Analytics & Knowledge Management - A Conceptual Model (October 2018), *58th IACIS Annual Conference*, Clearwater Beach, FL, USA. [(doqwnload)](https://github.com/wcj365/wcj365.github.io/blob/master/docs/Integrating%20Data%20Analytics%20and%20Knowledge%20Management.pptx)
-
+3. Integrating Data Analytics & Knowledge Management - A Conceptual Model (October 2018), *58th IACIS Annual Conference*, Clearwater Beach, FL, USA. [(download)](https://github.com/wcj365/wcj365.github.io/blob/master/docs/Integrating%20Data%20Analytics%20and%20Knowledge%20Management.pptx)

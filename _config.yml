@@ -3,7 +3,7 @@ logo: "./images/logo.png?raw=true"
 description: 
   <br/>
   <b>路漫漫其修远兮，吾将上下而求索。 </b>
-  <a href="https://github.com/wcj365/wcj365.github.io/blob/master/publications.md">Publications</a>   
+  <a href="publications.md">Publications</a>   
   <br/><br/>
   <a href="https://www.linkedin.com/in/jaywangusa/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal

@@ -42,6 +42,8 @@
 3. Integrating Data Analytics & Knowledge Management - A Conceptual Model (October 2018), *58th IACIS Annual Conference*, Clearwater Beach, FL, USA. [(download)](https://github.com/wcj365/wcj365.github.io/blob/master/docs/Integrating%20Data%20Analytics%20and%20Knowledge%20Management.pptx)
 
 ## data science projects
-1. [Dialysis Dashboard](https://github.com/wcj365/dialysis-dashboard)
-2. [Hospital Readmissions](https://github.com/wcj365/hospital-readmissions)
-3. [Business Schools and Program Accreditation](https://github.com/wcj365/accreditation)
+1. [Dialysis Dashboard with Tableau](https://public.tableau.com/profile/jaywang) 
+2. [Dialysis Dashboard with Python](https://github.com/wcj365/dialysis-dashboard)
+3. [Dialysis Dashboard Data Sources and Data Preparation] (https://www.kaggle.com/wcj365/rmudsc)
+4. [Hospital Readmissions](https://github.com/wcj365/hospital-readmissions)
+5. [Business Schools and Program Accreditation](https://github.com/wcj365/accreditation)

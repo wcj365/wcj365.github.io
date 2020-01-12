@@ -41,3 +41,8 @@ These are peer-reviewed journal articles:
 1. The Yin and Yang of A Doctoral Program – Personal Reflections & Reverse Engineering (October 2019), *59th IACIS Annual Conference*, Clearwater Beach, FL, USA. [(download)](https://github.com/wcj365/wcj365.github.io/blob/master/docs/Yin%20Yang%20Research%20Model%202019%20IACIS.pptx)
 2. From AI to EI - Integrating Five Types of Intelligence to Achieve Organizational Excellence (May 2019), *MakeLearn & TIIM International Conference*, Piran, Slovenia. [(download)](https://github.com/wcj365/wcj365.github.io/blob/master/docs/From%20AI%20to%20EI%20Final.pptx)
 3. Integrating Data Analytics & Knowledge Management - A Conceptual Model (October 2018), *58th IACIS Annual Conference*, Clearwater Beach, FL, USA. [(download)](https://github.com/wcj365/wcj365.github.io/blob/master/docs/Integrating%20Data%20Analytics%20and%20Knowledge%20Management.pptx)
+
+## data science projects
+1. [Dialysis Dashboard](https://github.com/wcj365/dialysis-dashboard)
+2. [Hospital Readmissions](https://github.com/wcj365/hospital-readmissions)
+3. [Business Schools and Program Accreditation](https://github.com/wcj365/accreditation)

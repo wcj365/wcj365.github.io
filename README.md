@@ -30,7 +30,6 @@
 * The course materials are in [this Github repository](https://github.com/wcj365/python-stats-dataviz)
 
 ## journal articles
-These are peer-reviewed journal articles:
 1. Explore Health Information Exchanges using Systems of Systems Framework (2020), *International Journal of Applied Research on Public Health Management (IJARPHM)*, Volume 5, Issue 2. [(coming soon)](https://www.igi-global.com/journal/international-journal-applied-research-public/214902)
 2. From Artificial to Emotional Intelligence: Integrating Five Typesof Intelligence to Achieve Organizational Excellence (2019), *International Journal of Management, Knowledge and Learning (IJMKL)*, Volume 8, Issue 2. [(download)](http://www.issbs.si/press/ISSN/2232-5697/8_125-144.pdf)
 3. The Yin and Yang of a Doctor of Science in Information Systems and Communications Program (2019), *Issues in Information Systems (IIS)*, Volume 20, Issue 2. [(download)](http://www.iacis.org/iis/2019/2_iis_2019_128-139.pdf)

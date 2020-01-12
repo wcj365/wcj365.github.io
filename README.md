@@ -23,6 +23,7 @@
 * **Principal Systems Engineer** at The MITRE Corporation since 2016
 * **Chief Engineer** at Lockheed Martin Corporation from 2006 to 2016
 * **Vice President** of Product Development at Regent Education, Inc. from 2013 to 2016
+* **Various positions** in industries including banking, manufacturing, telecommunication, software, and IT consulting
 
 ## teaching
 * **Adjunct Instructor** at University of Maryland Baltimore County (UMBC) since Fall 2019 

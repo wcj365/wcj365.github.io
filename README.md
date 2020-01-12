@@ -44,6 +44,6 @@
 ## data science projects
 1. [Dialysis Dashboard with Tableau](https://public.tableau.com/profile/jaywang) 
 2. [Dialysis Dashboard with Python](https://github.com/wcj365/dialysis-dashboard)
-3. [Dialysis Dashboard Data Sources and Data Preparation] (https://www.kaggle.com/wcj365/rmudsc)
+3. [Dialysis Dashboard Data Sources and Data Preparation](https://www.kaggle.com/wcj365/rmudsc)
 4. [Hospital Readmissions](https://github.com/wcj365/hospital-readmissions)
 5. [Business Schools and Program Accreditation](https://github.com/wcj365/accreditation)

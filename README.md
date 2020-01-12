@@ -26,8 +26,8 @@
 
 ## teaching
 * **Adjunct Instructor** at University of Maryland Baltimore County (UMBC) since Fall 2019 
-* Data Science Graduate Course: **DATA 690** - *Statistical Analysis and Data Visualization with Python*
-* The course materials are in [this Github repository](https://github.com/wcj365/python-stats-dataviz)
+* **DATA 690** - Statistical Analysis and Data Visualization with Python
+* Course materials are in [this Github repository](https://github.com/wcj365/python-stats-dataviz)
 
 ## journal articles
 1. Explore Health Information Exchanges using Systems of Systems Framework (2020), *International Journal of Applied Research on Public Health Management (IJARPHM)*, Volume 5, Issue 2. [(coming soon)](https://www.igi-global.com/journal/international-journal-applied-research-public/214902)

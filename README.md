@@ -2,15 +2,15 @@
 * **A Programmer** - from Java to Python
 * **A Software Engineer** - from Waterfall to Agile
 * **A Project Manager** - from Control to Culture
+* **A Data Scientist** - from Statistical Inference to Machine Learning
 * **A Systems Thinker** - from Systems to Systems of Systems (SoS)
-* **A Data Scientist** - from Statistics to Machine Learning
 
 ## wcj365?
 * **wcj** = my initials
-* **365** = days (year) 
 * **365** = 360 + 5
-* **360** = degrees (circle)
-* **5** = fingers (hand)
+* **365** = days (steady)
+* **360** = degrees (systemic)
+* **5** = fingers/toes (simple)
 
 ## education
 * **Doctor of Science (D.Sc.)** in *Information Systems and Communications*, Robert Morris University

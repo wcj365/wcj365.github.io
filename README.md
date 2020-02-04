@@ -1,9 +1,9 @@
 ## whoami?
 * **A Programmer** - from Java to Python
 * **A Software Engineer** - from Waterfall to Agile
-* **A Systems Engineer** - from Thinking in Systems to Thinking in Systems of Systems (SoS)
+* **A Project Manager** - from Control to Culture
+* **A Systems Thinker** - from Systems to Systems of Systems (SoS)
 * **A Data Scientist** - from Statistics to Machine Learning
-* **A Lifelong Learner** - from I Know Something to I Know Nothing
 
 ## wcj365?
 * **wcj** = my initials
@@ -23,7 +23,7 @@
 * **Principal Systems Engineer** at The MITRE Corporation since 2016
 * **Chief Engineer** at Lockheed Martin Corporation from 2006 to 2016
 * **Vice President** of Product Development at Regent Education, Inc. from 2013 to 2016
-* **Positions** in industries including banking, manufacturing, telecommunication, software, and IT consulting
+* **Various Positions** in industries including banking, financial, manufacturing, telecommunication, software, and IT consulting
 
 ## teaching
 * **Adjunct Instructor** at University of Maryland Baltimore County (UMBC) since Fall 2019 

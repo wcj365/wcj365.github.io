@@ -5,7 +5,7 @@
 * **A Data Scientist** - from Statistical Inference to Machine Learning
 * **A Systems Thinker** - from Systems to Systems of Systems (SoS)
 
-*whoami is the command to find out the current user on a computer system.*
+*whoami is a command to find out the current user on a computer.*
 
 ## wcj365?
 * **wcj** = my initials

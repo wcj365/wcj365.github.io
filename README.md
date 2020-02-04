@@ -8,9 +8,9 @@
 ## wcj365?
 * **wcj** = my initials
 * **365** = 360 + 5
-* **365** = days (steady)
-* **360** = degrees (systemic)
-* **5** = fingers (simple)
+* **365** = days/year (steady)
+* **360** = degrees/circle (systemic)
+* **5** = fingers/hand (simple)
 
 ## education
 * **Doctor of Science (D.Sc.)** in *Information Systems and Communications*, Robert Morris University

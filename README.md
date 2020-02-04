@@ -7,7 +7,7 @@
 
 *whoami = Who am I* 
 
-*whoami is the command to find out the current user on a computer running Unix/Linux or Windows operating system.*
+*whoami is the command to find out the current user on a computer system.*
 
 ## wcj365?
 * **wcj** = my initials

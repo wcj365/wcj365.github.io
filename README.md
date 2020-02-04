@@ -10,7 +10,7 @@
 * **365** = 360 + 5
 * **365** = days (steady)
 * **360** = degrees (systemic)
-* **5** = fingers/toes (simple)
+* **5** = fingers (simple)
 
 ## education
 * **Doctor of Science (D.Sc.)** in *Information Systems and Communications*, Robert Morris University

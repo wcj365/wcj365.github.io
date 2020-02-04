@@ -5,6 +5,10 @@
 * **A Data Scientist** - from Statistical Inference to Machine Learning
 * **A Systems Thinker** - from Systems to Systems of Systems (SoS)
 
+*whoami = Who am I*
+
+*It is the command to find out the current user on a computer running Unix/Linux or Windows operating system.*
+
 ## wcj365?
 * **wcj** = my initials
 * **365** = 360 + 5

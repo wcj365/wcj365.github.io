@@ -24,10 +24,10 @@
 * **Bachelor of Engineering (BE)** in *Management Information Systems (MIS)*, Tsinghua University, Beijing, China
 
 ## work
-* **Principal Systems Engineer** at The MITRE Corporation since 2016
-* **Program Chief Engineer** at Lockheed Martin Corporation from 2006 to 2016
+* **Principal Systems Engineer** at MITRE Corp. since 2016
+* **Program Chief Engineer** at Lockheed Martin Corp. from 2006 to 2016
 * **Vice President** of Product Development at Regent Education, Inc. from 2013 to 2016
-* **Various Positions** in banking, financial, manufacturing, telecommunication, software, and IT consulting
+* **Various Positions** in banking, financial, manufacturing, telecommunication, and IT consulting
 
 ## teaching
 * **Adjunct Instructor** at University of Maryland Baltimore County (UMBC)  

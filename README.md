@@ -32,6 +32,20 @@
 * **DATA 690** - Statistical Analysis and Data Visualization with Python
 * Course materials are in [this Github repository](https://github.com/wcj365/python-stats-dataviz)
 
+## professional affiliations
+*	International Association for Computer Information Systems (IACIS)
+*	International Council of Systems Engineering (INCOSE)
+*	Project Management Institute (PMI)
+
+## professional certifications
+* **SAFe Agilist (SA)**, Scaled Agile, Inc.
+* **Project Management Professional (PMP)**, Project Management Institute 
+* **Certified Java Programmer**, Oracle 
+
+## journal roles
+* **Editor-in-Chief**, International Journal of Patient-Centered Healthcare (IJPCH), IGI Global 
+* **Editorial Review Board**, Issues in Information Systems (IIS), International Association for Computer Information Systems (IACIS)
+
 ## journal articles
 1. Explore Health Information Exchanges using Systems of Systems Framework (2020), *International Journal of Applied Research on Public Health Management (IJARPHM)*, Volume 5, Issue 2. [(coming soon)](https://www.igi-global.com/journal/international-journal-applied-research-public/214902)
 2. From Artificial to Emotional Intelligence: Integrating Five Types of Intelligence to Achieve Organizational Excellence (2019), *International Journal of Management, Knowledge and Learning (IJMKL)*, Volume 8, Issue 2. [(download)](http://www.issbs.si/press/ISSN/2232-5697/8_125-144.pdf)

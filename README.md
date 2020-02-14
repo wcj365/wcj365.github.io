@@ -42,6 +42,11 @@
 * **Project Management Professional (PMP)**, Project Management Institute 
 * **Certified Java Programmer**, Oracle 
 
+## awards
+* **Best Paper Award**, MakeLearn & TIIM International Conference, Piran, Solvenia, 2019 
+* **Various Awards**, The MITRE Corporateion since 2016
+* **Honor Award**, Lockheed Martin Corporation, 2008
+
 ## journal roles
 * **Editor-in-Chief**, International Journal of Patient-Centered Healthcare (IJPCH), IGI Global 
 * **Editorial Review Board**, Issues in Information Systems (IIS), International Association for Computer Information Systems (IACIS)

@@ -32,9 +32,9 @@
 * **DATA 690** - Statistical Analysis and Data Visualization with Python
 * Course materials are in [this Github repository](https://github.com/wcj365/python-stats-dataviz)
 
-## My Pedagogy
-- I put practice above PowerPoint. I don't focus on syntax or mechanics.
-- I share with students how I learn. I show them how to learn a subject on their own so that they become a life-long learner without relying on teachers or gurus. 
+## pedagogy
+- I put practice above PowerPoint. I don't focus on syntax and mechanics.
+- I share with students how I learn. I show them how to learn on their own so they become life-long learners without relying on teachers or gurus. 
 - I offer no fishes nor fishing gears. I show students where and how to find them.
 - The Internet is the biggest fish pond and Google is the best fishing gear. 
 - Curiocity may kill a cat, it sure makes a student.

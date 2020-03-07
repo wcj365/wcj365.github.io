@@ -5,7 +5,7 @@
 * **A Data Scientist** - from Statistical Inference to Machine Learning
 * **A Systems Thinker** - from Systems to Systems of Systems (SoS)
 
-**whoami** *is a command to find out the current user on a computer system.*
+**whoami** *is a computer command to find out the current user on a system.*
 
 ## wcj365?
 * **wcj** = my initials
@@ -14,7 +14,7 @@
 * **360** = degrees/circle (systemic)
 * **5** = fingers/hand (simple)
 
-**Simplicity** defines me.
+**Simplicity** *defines me.*
 ## education
 * **Doctor of Science (D.Sc.)** in *Information Systems and Communications*, Robert Morris University
 * **Master of Business Administration (MBA)** in *Finance*, Loyola University Maryland
@@ -22,27 +22,30 @@
 * **Master of Art (MA)** in *Economics*, The University of Toledo
 * **Bachelor of Engineering (BE)** in *Management Information Systems (MIS)*, Tsinghua University, Beijing, China
 
-I have many degrees except for the **BS**.
+*I have many degrees except for the* **BS**.
+
 ## work
 * **Principal Systems Engineer** at MITRE Corp. since 2016
 * **Program Chief Engineer** at Lockheed Martin Corp. from 2006 to 2016
 * **Vice President** of Product Development at Regent Education, Inc. from 2013 to 2016
 * **Various Positions** in banking, financial, manufacturing, telecommunication, and IT consulting
 
-I have no work-life balance issue. To me, life and work are **one** just like **Yin and Yang**.
+*I have no work-life balance issue. To me, life and work are one just like* **Yin and Yang**.
+
 ## teaching
 * **Adjunct Instructor** at University of Maryland Baltimore County (UMBC)  
 * **DATA 690** - Statistical Analysis and Data Visualization with Python
 * Course materials are in [this Github repository](https://github.com/wcj365/python-stats-dataviz)
 
-Teaching = Learning = Growing = Giving = Living
+*Teaching = Learning = Growing = Giving = Living*
+
 ## pedagogy
 - I put practice above PowerPoint. I don't focus on syntax and mechanics.
 - I share with students how I learn. I show them how to learn on their own so they become life-long learners without relying on teachers or gurus. 
 - I offer no fishes nor fishing gears. I show students where and how to find them.
 - The Internet is the biggest fish pond and Google is the best fishing gear. 
 
-**Curiocity** may kill a cat, it sure makes a student.
+**Curiocity** *may kill a cat, it sure makes a student.*
 
 ## professional affiliations
 *	International Association for Computer Information Systems (IACIS)

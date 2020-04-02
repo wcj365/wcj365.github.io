@@ -33,9 +33,11 @@
 *I have no work-life balance issue. To me, life and work are one just like* **Yin and Yang**.
 
 ## teaching
-* **Adjunct Instructor** at University of Maryland Baltimore County (UMBC)  
-* **DATA 690** - Statistical Analysis and Data Visualization with Python
-* Course materials are in [this Github repository](https://github.com/wcj365/python-stats-dataviz)
+* **Adjunct Instructor**, Department of Computer Science, University of Maryland Baltimore County (UMBC) 
+    * DATA 690 - Statistical Analysis and Data Visualization with Python
+    * Course materials are in [this Github repository](https://github.com/wcj365/python-stats-dataviz)
+* **Corporate Faculty**, Department of Health Informatics, Harrisburg University of Science & Technology
+    * HCIN 541 - Healthcare Systems
 
 *Teaching = Learning = Growing = Giving = Living*
 

@@ -17,20 +17,18 @@
 **Simplicity** *defines me.*
 
 ## education
-* **D.Sc.** in *Information Systems and Communications*, Robert Morris University
-* **MBA** in *Finance*, Loyola University Maryland
-* **MS** in *Statistics*, The University of Toledo
-* **MA** in *Economics*, The University of Toledo
-* **BE** in *Information Systems*, Tsinghua University, Beijing, China
+* **D.Sc.** in *IS and Comm.*, Robert Morris University, PA
+* **MBA** in *Finance*, Loyola University Maryland, MD
+* **MS** in *Statistics*, The University of Toledo, OH
+* **MA** in *Economics*, The University of Toledo, OH
+* **BE** in *MIS*, Tsinghua University, Beijing, China
 * No **BS**
 
 ## work
 * **Principal Systems Engineer** at MITRE Corp. since 2016
 * **Program Chief Engineer** at Lockheed Martin Corp. from 2006 to 2016
 * **Vice President** of Product Development at Regent Education, Inc. from 2013 to 2016
-* **Various Positions** in banking, financial, manufacturing, telecommunication, and IT consulting
-
-*I have no work-life balance issue. To me, life and work are one just like* **Yin and Yang**.
+* **Experiences** in public sector, private sector, and academia
 
 ## teaching
 * **Adjunct Instructor**, Data Science Graduate Programs, Univ. of Maryland Baltimore County (UMBC) 
@@ -42,9 +40,9 @@
 *Teaching = Learning = Growing = Giving = Living*
 
 ## pedagogy
-- I put practice above PowerPoint. I don't focus on syntax and mechanics.
-- I share with students how I learn. I show them how to learn on their own so they become life-long learners without relying on teachers or gurus. 
-- I offer no fishes nor fishing gears. I show students where and how to find them.
+- I put practice above PowerPoint and philosophy over physics. 
+- I show students how I learn - Copy and paster, trials and errors.
+- I offer neither fishes nor fishing gears. 
 - The Internet is the biggest fish pond and Google is the best fishing gear. 
 
 **Curiocity** *may kill a cat, it sure makes a student.*

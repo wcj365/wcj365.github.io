@@ -15,14 +15,14 @@
 * **5** = fingers/hand (simple)
 
 **Simplicity** *defines me.*
-## education
-* **Doctor of Science (D.Sc.)** in *Information Systems and Communications*, Robert Morris University
-* **Master of Business Administration (MBA)** in *Finance*, Loyola University Maryland
-* **Master of Science (MS)** in *Statistics*, The University of Toledo
-* **Master of Art (MA)** in *Economics*, The University of Toledo
-* **Bachelor of Engineering (BE)** in *Management Information Systems (MIS)*, Tsinghua University, Beijing, China
 
-*I have many degrees except for the* **BS**.
+## education
+* **D.Sc.** in *Information Systems and Communications*, Robert Morris University
+* **MBA** in *Finance*, Loyola University Maryland
+* **MS** in *Statistics*, The University of Toledo
+* **MA** in *Economics*, The University of Toledo
+* **BE** in *Information Systems*, Tsinghua University, Beijing, China
+* No **BS**
 
 ## work
 * **Principal Systems Engineer** at MITRE Corp. since 2016
@@ -35,7 +35,7 @@
 ## teaching
 * **Adjunct Instructor**, Data Science Graduate Programs, Univ. of Maryland Baltimore County (UMBC) 
     * DATA 690 - Statistical Analysis and Data Visualization with Python
-    * Course materials are in [this Github repository](https://github.com/wcj365/python-stats-dataviz)
+    * https://github.com/wcj365/python-stats-dataviz
 * **Corporate Faculty**, Healthcare Informatics, Harrisburg Univ. of Science & Technology
     * HCIN 541 - Healthcare Systems
 

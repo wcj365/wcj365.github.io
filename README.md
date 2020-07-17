@@ -1,4 +1,4 @@
-## `# whoami`
+## # whoami
 * **A Programmer** - from Java to Python
 * **A Software Engineer** - from Waterfall to Agile
 * **A Project Manager** - from Control to Culture

@@ -41,7 +41,7 @@
 
 ## pedagogy
 - I put practice above PowerPoint and philosophy over physics. 
-- I show students how I learn - Copy and paster, trials and errors.
+- I show students how I learn - copy and paste, trials and errors.
 - I offer neither fishes nor fishing gears. 
 - The Internet is the biggest fish pond and Google is the best fishing gear. 
 

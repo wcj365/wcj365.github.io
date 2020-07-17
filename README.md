@@ -30,7 +30,7 @@
 
 ## teaching
 * **Adjunct Instructor**, Data Science Graduate Programs, Univ. of Maryland Baltimore County (UMBC) 
-    * DATA 690 - Statistical Analysis and Data Visualization with Python
+    * DATA 690 - Statistical Analysis and Data Visualization
     * https://github.com/wcj365/python-stats-dataviz
 * **Corporate Faculty**, Healthcare Informatics, Harrisburg Univ. of Science & Technology
     * HCIN 541 - Healthcare Systems

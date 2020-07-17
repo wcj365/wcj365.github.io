@@ -5,8 +5,6 @@
 * **A Data Scientist** - from Inference to Exploration
 * **A Systems Thinker** - from Systems to Systems of Systems (SoS)
 
-**whoami** *is a Linux shell command to find out the current user.*
-
 ## wcj365?
 * **wcj** = my initials
 * **365** = 360 + 5

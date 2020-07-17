@@ -1,11 +1,11 @@
-## `$ whoami`
+## `# whoami`
 * **A Programmer** - from Java to Python
 * **A Software Engineer** - from Waterfall to Agile
 * **A Project Manager** - from Control to Culture
 * **A Data Scientist** - from Inference to Exploration
 * **A Systems Thinker** - from Systems to Systems of Systems (SoS)
 
-**whoami** *is a computer command to find out the current user on a system.*
+**whoami** *is a Linux shell command to find out the current user.*
 
 ## wcj365?
 * **wcj** = my initials

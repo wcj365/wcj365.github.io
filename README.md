@@ -34,6 +34,7 @@
     * https://github.com/wcj365/python-stats-dataviz
 * **Corporate Faculty**, Healthcare Informatics, Harrisburg Univ. of Science & Technology
     * HCIN 541 - Healthcare Systems
+    * https://github.com/wcj365/health
 
 *Teaching = Learning = Growing = Giving = Living*
 
@@ -82,3 +83,4 @@
 3. [Dialysis Dashboard Data Preparation with Jupyter Notebooks in Kaggle](https://www.kaggle.com/wcj365/rmudsc)
 4. [Hospital Readmissions with Jupyter Notebooks](https://github.com/wcj365/hospital-readmissions)
 5. [Business Schools and Program Accreditation - Python Webscraping](https://github.com/wcj365/accreditation)
+6. [The World Development Explorer](http://www.worlddev.xyz)

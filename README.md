@@ -34,7 +34,7 @@
     * https://github.com/wcj365/python-stats-dataviz
 * **Corporate Faculty**, Healthcare Informatics, Harrisburg Univ. of Science & Technology
     * HCIN 541 - Healthcare Systems
-    * https://github.com/wcj365/health
+    * https://github.com/wcj365/healthcare
 
 *Teaching = Learning = Growing = Giving = Living*
 

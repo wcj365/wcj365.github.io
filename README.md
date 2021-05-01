@@ -1,4 +1,3 @@
-![](jaywang200.png)
 #### [whoami 我是谁？](whoami.md)
 #### [LinkedIn Profile 领英履历](https://www.linkedin.com/in/wcj365)
 #### [GitHub Profile 开源软件代码资料](https://github.com/wcj365)

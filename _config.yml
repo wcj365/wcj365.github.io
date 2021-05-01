@@ -1,9 +1,7 @@
-title: Dr. Jay Wang
-logo: "./images/JayWang200.png?raw=true" 
-description: 
-  <br/>
-  always curious. forever exploring.
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/wcj365/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
-google_analytics: UA-159296632-1
+title: Dr. Chaojie Wang 
+description: Always curious. Forever exploring. 
+baseurl: 
+logo: /assets/images/jaywang200.png
+github:
+  is_project_page: false
